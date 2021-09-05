@@ -1,4 +1,4 @@
 # computerScienceFundamentals
 
-This repo will host some basic notes that I will take in my journy towards computer science proficiency.
+This repo hosts some basic notes in my journy towards computer science proficiency.
 
