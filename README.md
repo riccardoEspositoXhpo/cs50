@@ -1,4 +1,4 @@
 # computerScienceFundamentals
 
-This repo hosts some basic notes in my journy towards computer science proficiency.
+This repo hosts some basic notes in my journey towards computer science proficiency.
 
