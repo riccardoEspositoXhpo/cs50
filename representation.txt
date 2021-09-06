@@ -1,0 +1,35 @@
+Representation:
+
+Counting in binary is done in base 2 notation.
+Ex: number 50 is represented binary
+
+1 1 00 1 0
+32 + 16 + 0 + 0 + 2 + 0
+
+---
+
+ASCII is just a decode between bits and letters/symbols.
+Ex: 33 is "H".
+
+ASCII used 8 bits, giving total of 256 characters. Extremely limiting.
+
+----
+
+Unicode can support 8,16,32 bits and can support characters in any language, including emokis.
+
+----
+
+RGB is the 0-255 (red,green,blue) with which computers represent colors
+
+this is how we represent pictures.
+To represent video, we just change the pixel rapidly.
+(fps)
+
+----
+
+All these systems are designed to convert bits into usable information.
+This is why file formats exist.
+
+
+
+
