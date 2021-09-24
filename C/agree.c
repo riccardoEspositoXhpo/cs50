@@ -6,18 +6,14 @@ int main(void){
     // promt user for x
     char c = get_char("Do you agree? ");
 
-    if (c == 'y' || c == 'Y')
-    {
+    if (c == 'y' || c == 'Y'){
+
         printf("Agreed.\n");
     }
-    else if (c == 'n' || c == 'N')
-    {
+    else if (c == 'n' || c == 'N'){
         printf("Not Agreed.\n");
-    }
-    else
-    {
+    } else {
         printf("Invalid Answer.\n");
     }
-
 
 }
