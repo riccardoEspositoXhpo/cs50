@@ -1,4 +1,4 @@
-Representation:
+Lesson 0 - Representation:
 
 Counting in binary is done in base 2 notation.
 Ex: number 50 is represented binary
@@ -29,7 +29,6 @@ To represent video, we just change the pixel rapidly.
 
 All these systems are designed to convert bits into usable information.
 This is why file formats exist.
-
 
 
 
