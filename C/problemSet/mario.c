@@ -46,7 +46,7 @@ int get_pyramid_height(void)
 void print_spaces(int pyramid_height, int i)
 {
     // the loop counts downwards as the number of spaces decreases as we move down the pyramid
-    for (int j = pyramid_height - i; j > 0; j--)
+    for (int j = pyramid_height - ( i + 1 ); j > 0; j--)
     {
 
         printf("%c", ' ');
