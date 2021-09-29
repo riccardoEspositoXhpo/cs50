@@ -1,0 +1,38 @@
+lesson1: 
+
+* Compiling code:
+    - we use make, but acutally are using a program called clang
+
+* There are a few steps in compiling:
+ ** Preprocessing
+
+#include <stdio.h>
+
+becomes
+
+int printf(string format, ...);
+
+this means that all the header files contain all the prototypes contianed in the code
+
+ ** Compiling
+
+Take the code from source to assembly code
+CPUs understand assembly (we don't have to know this)
+
+ ** Assembling
+
+The assembly code is converted to machine code
+
+ ** Linking
+
+Takes all my machine code, and links it with all the header files and functions
+
+//
+
+* Debugging 
+
+Typically you would printf to debug as you know.
+Alternatively you can run a "debugger" which runs the code step by step
+
+In the class we can use debug50
+
