@@ -1,0 +1,58 @@
+* Algorithm Run Times 
+
+O denotes the max run time, Omega denotes the min run time
+If O and Omega are the same, you can say Theta.
+
+** O(1)
+
+** O(log n)
+
+** O(n log n)
+
+** O(n)
+
+** O(n^2)
+
+* Linear Search Problem
+
+The challenge is how to search for a number in an array
+
+- You can look index by index until you find the number
+    - O(n)
+    - Omega(1) - because if you are lucky you find the element on the first index
+
+* Binary Search
+
+Find a number in the array
+The array is sorted
+
+You start in the middle, cut out the wrong side, iterate.
+
+    - O(log n)
+    - Omega(1)
+
+
+* Sorting Algorithms
+
+** Selection Sort
+- Finds the min value in the array and swaps it to the ith position 
+- This sorting starts filling values from left to right
+- O(n^2)
+- Omega(n^2)
+
+= Theta(n^2)
+
+** Bubble Sort
+- You simply swap number i with i+1 if lower
+- this sorting fills values from right to left
+- O(n^2)
+- Omega(n)
+
+** Merge Sort
+- Ability for a function to call itself
+- this divides the problem in half until you have 1 element, then you merge them by considering smallest on the left with smallest on right
+
+- O(n logn)
+- Omega(n logn)
+- Theta(n logn)
+
