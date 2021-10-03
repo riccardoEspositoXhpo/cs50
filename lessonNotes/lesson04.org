@@ -1,0 +1,20 @@
+* Hexadecimal
+
+0 1 2 3 4 5 6 7 8 9 A B C D E F 
+0-F (base 16)
+
+10 (base 16) is 16
+
+FF in hex is 255 (now you recognize databases)
+
+FF = 11111111 (in binary) = 8 bits
+
+one hex digits = four binary
+
+In the context of colors of memory, we use hex
+
+To recognize hex digits, we preface with 0x so we don't confuse with decimal
+
+0xFF = 255
+
+
