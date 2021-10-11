@@ -1,7 +1,7 @@
-from cs50 import get_string
+# from cs50 import get_string
 
 
-answer = get_string("what's your name man? ")
+answer = input("what's your name man? ")
 
 # option 1
 print("hello, " + answer)
@@ -9,7 +9,7 @@ print("hello, " + answer)
 # option 2 - the f tells to not interpret the { literally
 print(f"hello, {answer}")
 
-x = y = 0;
+x = y = 0
 
 # be careful, python REQUIRES indentation to work properly
 if x < y:
