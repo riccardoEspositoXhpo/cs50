@@ -1,0 +1,32 @@
+.jumbotron {
+    background-color: #0e7551;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+#homePage {
+    background-image: url("/image/homePage.jpeg");
+}
+
+#bioPage {
+    background-image: url("/image/bioPageBanner.jpeg");
+}
+
+#cryptoPage {
+    background-image: url("/image/cryptoBanner.jpeg");
+}
+
+#f1page {
+    background-image: url("/image/f1Banner.jpg");
+}
